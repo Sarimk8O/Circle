@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UI_Behaviour.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Score_Count.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Circle_Behavious.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Circle_Behaviour_1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Circle_Behaviour_2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Circle_Behaviour_3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Circle_Behaviour_4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Circle_Behaviour_5.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Circle_Behaviour_6.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Circle_Behaviour_7.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game_Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI_Behaviour.cs" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\Main_Circle_Rotation.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
